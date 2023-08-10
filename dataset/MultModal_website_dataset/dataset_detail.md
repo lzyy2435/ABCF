@@ -12,7 +12,7 @@ normal, spending, Love and Dating, impersonation, phishing website, impersonatio
 
 ### HTML data
 
-`~/url_data` contains the HTML data files, whose file name means URL index, and the folder name means categories label.
+`~/html_set.zip` contains the HTML data files, whose file name means URL index, and the folder name means categories label.
 
 ### URL  data
 
